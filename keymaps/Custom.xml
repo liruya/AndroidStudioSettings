@@ -1,0 +1,4 @@
+<keymap version="1" name="Custom" parent="Emacs">
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+</keymap>
