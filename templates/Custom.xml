@@ -3,26 +3,42 @@
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lgi" value="LogUtil.i(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="LogUtil.i(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
   <template name="lge" value="LogUtil.e(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="LogUtil.e(TAG, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
   <template name="lgw" value="LogUtil.w(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="LogUtil.w(TAG, String)" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="creatLogUtil" value="    private static final boolean ENABLE_LOGCAT = true;&#10;&#10;    public static void v(String tag, String msg)&#10;    {&#10;        if ( ENABLE_LOGCAT )&#10;        {&#10;            Log.v(tag, msg);&#10;        }&#10;    }&#10;&#10;    public static void d(String tag, String msg)&#10;    {&#10;        if ( ENABLE_LOGCAT )&#10;        {&#10;            Log.d(tag, msg);&#10;        }&#10;    }&#10;&#10;    public static void i(String tag, String msg)&#10;    {&#10;        if ( ENABLE_LOGCAT )&#10;        {&#10;            Log.i(tag, msg);&#10;        }&#10;    }&#10;&#10;    public static void w(String tag, String msg)&#10;    {&#10;        if ( ENABLE_LOGCAT )&#10;        {&#10;            Log.w(tag, msg);&#10;        }&#10;    }&#10;&#10;    public static void e(String tag, String msg)&#10;    {&#10;        if ( ENABLE_LOGCAT )&#10;        {&#10;            Log.e(tag, msg);&#10;        }&#10;    }" description="creat LogUtil code" toReformat="false" toShortenFQNames="true">
+  <template name="lgv" value="LogUtil.v(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="LogUtil.v(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lgr" value="LogUtil.d(TAG, &quot;$METHOD_NAME$() returned: &quot; +  $result$);" description="Log result of this method" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="result" expression="variableOfType(methodReturnType())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
