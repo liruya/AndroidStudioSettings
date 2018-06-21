@@ -2,4 +2,7 @@
   <component name="CodotaConfiguration">
     <option name="host" value="PRD" />
   </component>
+  <component name="CodotaSettings">
+    <option name="id" value="e5410c68-6542-41b6-84a8-91461f37825c" />
+  </component>
 </application>
