@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="aar" type="Native" />
-      <mapping pattern="RevisionRecord" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
