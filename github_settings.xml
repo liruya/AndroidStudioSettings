@@ -1,5 +1,6 @@
 <application>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="TOKEN" value="02b280ac6382db28e9351446027f2c606b92a0a3" />
   </component>
 </application>
