@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping pattern="AppConfig" type="Properties" />
     </extensionMap>
   </component>
 </application>
