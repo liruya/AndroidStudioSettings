@@ -1,9 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="Android Room SQL" />
       <mapping ext="webp" type="Image" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping pattern="AppConfig" type="Properties" />
+      <mapping pattern="t2" type="SQLite" />
     </extensionMap>
   </component>
 </application>
