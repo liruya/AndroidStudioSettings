@@ -5,7 +5,14 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
   <action id="UpdateRunningApplication" />
+  <action id="ViewInplaceComments" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>

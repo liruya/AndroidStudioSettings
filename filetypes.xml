@@ -15,6 +15,7 @@
       <mapping pattern="t2" type="SQLite" />
       <mapping pattern="aaa" type="SQLite" />
       <mapping ext="db" type="SQLite" />
+      <mapping pattern="gradlew" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
