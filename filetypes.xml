@@ -4,10 +4,10 @@
       <mapping pattern="test" type="Android Room SQL" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="animal_light_tables" type="JSON" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="animal_light_relations" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="animals" type="PLAIN_TEXT" />
+      <mapping pattern="animal_light_relations" type="PLAIN_TEXT" />
       <mapping pattern="animal" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
