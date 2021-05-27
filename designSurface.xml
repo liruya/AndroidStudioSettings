@@ -4,6 +4,10 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_addhost.xml" value="0.4157608695652174" />
+        <entry key="app/src/main/res/layout/activity_akeydistributionnetwork.xml" value="0.4157608695652174" />
+        <entry key="app/src/main/res/layout/activity_binddevice.xml" value="0.4157608695652174" />
+        <entry key="app/src/main/res/layout/activity_changepassword.xml" value="0.4157608695652174" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
       </map>
     </option>
