@@ -3,12 +3,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_email_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_lock_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.5083333333333333" />
+        <entry key="app/src/main/res/drawable/rec_round_jianbian_60px.xml" value="0.5083333333333333" />
+        <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.3648148148148148" />
         <entry key="app/src/main/res/layout/activity_addhost.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/activity_akeydistributionnetwork.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/activity_binddevice.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/layout/activity_changepassword.xml" value="0.4157608695652174" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.536" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.337037037037037" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
