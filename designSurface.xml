@@ -47,9 +47,10 @@
         <entry key="app/src/main/res/layout/activity_wifisettings.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/fragment_connect_net.xml" value="0.264" />
-        <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.35519677093844604" />
+        <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.36277173913043476" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_me.xml" value="0.36367753623188404" />
+        <entry key="app/src/main/res/layout/fragment_products.xml" value="0.22314814814814815" />
         <entry key="app/src/main/res/layout/fragment_select_product.xml" value="0.22037037037037038" />
         <entry key="app/src/main/res/layout/fragment_select_router.xml" value="0.22037037037037038" />
         <entry key="app/src/main/res/layout/item_device.xml" value="0.1" />
