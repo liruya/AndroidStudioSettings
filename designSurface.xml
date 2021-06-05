@@ -24,7 +24,7 @@
         <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.5515625" />
         <entry key="app/src/main/res/layout/activity_add_device.xml" value="0.22037037037037038" />
         <entry key="app/src/main/res/layout/activity_addhost.xml" value="0.42003027245206864" />
-        <entry key="app/src/main/res/layout/activity_akeydistributionnetwork.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/activity_akeydistributionnetwork.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_binddevice.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/layout/activity_changepassword.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/layout/activity_editaccount.xml" value="0.18888888888888888" />
@@ -46,12 +46,13 @@
         <entry key="app/src/main/res/layout/activity_wificonnectioning.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wifisettings.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/fragment_config_guide.xml" value="0.26513622603430875" />
         <entry key="app/src/main/res/layout/fragment_connect_net.xml" value="0.264" />
         <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.264" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_me.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_products.xml" value="0.22314814814814815" />
-        <entry key="app/src/main/res/layout/fragment_select_product.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/layout/fragment_select_product.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_select_router.xml" value="0.22037037037037038" />
         <entry key="app/src/main/res/layout/item_device.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_device_content.xml" value="0.24074074074074073" />
