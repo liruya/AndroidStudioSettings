@@ -16,6 +16,7 @@
         <entry key="app/src/main/res/drawable/ic_person_128.xml" value="0.5317708333333333" />
         <entry key="app/src/main/res/drawable/ic_person_outline.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/ic_router_white_24dp.xml" value="0.2814814814814815" />
+        <entry key="app/src/main/res/drawable/ic_settings_64.xml" value="0.51875" />
         <entry key="app/src/main/res/drawable/ic_verify_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.3388888888888889" />
@@ -27,7 +28,7 @@
         <entry key="app/src/main/res/layout/activity_akeydistributionnetwork.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_binddevice.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/layout/activity_changepassword.xml" value="0.4157608695652174" />
-        <entry key="app/src/main/res/layout/activity_device.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/layout/activity_device.xml" value="0.3605072463768116" />
         <entry key="app/src/main/res/layout/activity_editaccount.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_editname.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_feedback.xml" value="0.18888888888888888" />
@@ -70,6 +71,7 @@
         <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.262037037037037" />
         <entry key="app/src/main/res/menu/menu_main_bnv.xml" value="0.3435185185185185" />
         <entry key="app/src/main/res/menu/menu_web.xml" value="0.2777777777777778" />
+        <entry key="app/src/main/res/menu/setting.xml" value="0.49947916666666664" />
         <entry key="app/src/main/res/menu/web.xml" value="0.5317708333333333" />
       </map>
     </option>
