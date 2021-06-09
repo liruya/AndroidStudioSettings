@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/drawable/ic_lock_white_24dp.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/ic_person_128.xml" value="0.5317708333333333" />
         <entry key="app/src/main/res/drawable/ic_person_outline.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/ic_power_green.xml" value="0.27037037037037037" />
         <entry key="app/src/main/res/drawable/ic_router_white_24dp.xml" value="0.2814814814814815" />
         <entry key="app/src/main/res/drawable/ic_settings_64.xml" value="0.51875" />
         <entry key="app/src/main/res/drawable/ic_verify_white_24dp.xml" value="0.559375" />
@@ -22,6 +23,7 @@
         <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.3388888888888889" />
         <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.5083333333333333" />
         <entry key="app/src/main/res/drawable/rec_round_jianbian_60px.xml" value="0.5083333333333333" />
+        <entry key="app/src/main/res/drawable/roundcorner_gradient_background.xml" value="0.45601851851851855" />
         <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.5515625" />
         <entry key="app/src/main/res/layout/activity_add_device.xml" value="0.22037037037037038" />
         <entry key="app/src/main/res/layout/activity_addhost.xml" value="0.42003027245206864" />
@@ -55,7 +57,7 @@
         <entry key="app/src/main/res/layout/fragment_connect_net.xml" value="0.264" />
         <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.264" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
-        <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_light_manual.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_light_mode.xml" value="0.21388888888888888" />
         <entry key="app/src/main/res/layout/fragment_me.xml" value="0.36367753623188404" />
