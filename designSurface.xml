@@ -17,6 +17,9 @@
         <entry key="app/src/main/res/drawable/ic_device.xml" value="0.3574074074074074" />
         <entry key="app/src/main/res/drawable/ic_email_white_24dp.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/ic_lock_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material.xml" value="0.27037037037037037" />
+        <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material_badge.xml" value="0.27037037037037037" />
+        <entry key="app/src/main/res/drawable/ic_more_horiz_white_24dp.xml" value="0.27037037037037037" />
         <entry key="app/src/main/res/drawable/ic_person_128.xml" value="0.5317708333333333" />
         <entry key="app/src/main/res/drawable/ic_person_outline.xml" value="0.225" />
         <entry key="app/src/main/res/drawable/ic_power_green.xml" value="0.27037037037037037" />
@@ -56,6 +59,7 @@
         <entry key="app/src/main/res/layout/activity_wificonnectioning.xml" value="0.18333333333333332" />
         <entry key="app/src/main/res/layout/activity_wifisettings.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/fragment_apconfig_guide.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_config_device.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_config_guide.xml" value="0.26513622603430875" />
@@ -75,7 +79,7 @@
         <entry key="app/src/main/res/layout/fragment_smartconfig_guide.xml" value="0.3605072463768116" />
         <entry key="app/src/main/res/layout/item_channel.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/item_color_name.xml" value="0.3596014492753623" />
-        <entry key="app/src/main/res/layout/item_device.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/layout/item_device.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/item_device_content.xml" value="0.24074074074074073" />
         <entry key="app/src/main/res/layout/item_device_device.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
