@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/gradient_rect.xml" value="0.5060185185185185" />
         <entry key="app/src/main/res/drawable/home_device.xml" value="0.32314814814814813" />
         <entry key="app/src/main/res/drawable/home_menu.xml" value="0.32314814814814813" />
         <entry key="app/src/main/res/drawable/ic_add_64.xml" value="0.5666666666666667" />
@@ -23,7 +24,7 @@
         <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.3388888888888889" />
         <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.5083333333333333" />
         <entry key="app/src/main/res/drawable/rec_round_jianbian_60px.xml" value="0.5083333333333333" />
-        <entry key="app/src/main/res/drawable/roundcorner_gradient_background.xml" value="0.45601851851851855" />
+        <entry key="app/src/main/res/drawable/roundcorner_gradient_background.xml" value="0.5060185185185185" />
         <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.5515625" />
         <entry key="app/src/main/res/layout/activity_add_device.xml" value="0.22037037037037038" />
         <entry key="app/src/main/res/layout/activity_addhost.xml" value="0.42003027245206864" />
@@ -41,7 +42,7 @@
         <entry key="app/src/main/res/layout/activity_ledcontroller.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_ledcontroller_setting.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_ledcustomsetting.xml" value="0.18888888888888888" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.26851851851851855" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4329896907216495" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.452445652173913" />
         <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.536" />
@@ -55,7 +56,7 @@
         <entry key="app/src/main/res/layout/fragment_config_device.xml" value="0.21388888888888888" />
         <entry key="app/src/main/res/layout/fragment_config_guide.xml" value="0.26513622603430875" />
         <entry key="app/src/main/res/layout/fragment_connect_net.xml" value="0.264" />
-        <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_light_manual.xml" value="0.3596014492753623" />
