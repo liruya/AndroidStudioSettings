@@ -56,6 +56,7 @@
         <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.264" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_light_manual.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_light_mode.xml" value="0.21388888888888888" />
         <entry key="app/src/main/res/layout/fragment_me.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_netconfig.xml" value="0.42003027245206864" />
