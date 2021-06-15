@@ -69,6 +69,7 @@
         <entry key="app/src/main/res/layout/fragment_device_detail.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.3596014492753623" />
+        <entry key="app/src/main/res/layout/fragment_ledc_channels.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/fragment_ledc_extra.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/fragment_light_manual.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_light_mode.xml" value="0.21388888888888888" />
@@ -84,6 +85,7 @@
         <entry key="app/src/main/res/layout/item_device.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/item_device_content.xml" value="0.24074074074074073" />
         <entry key="app/src/main/res/layout/item_device_device.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/item_edit_channel.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.23981481481481481" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
