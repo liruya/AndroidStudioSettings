@@ -35,6 +35,7 @@
         <entry key="app/src/main/res/drawable/ic_verifycode_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.3388888888888889" />
         <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.5083333333333333" />
+        <entry key="app/src/main/res/drawable/rec_round_hui_blueline_tlr_20px.xml" value="0.29259259259259257" />
         <entry key="app/src/main/res/drawable/rec_round_jianbian_60px.xml" value="0.5083333333333333" />
         <entry key="app/src/main/res/drawable/roundcorner_gradient_background.xml" value="0.5060185185185185" />
         <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.5515625" />
@@ -54,7 +55,7 @@
         <entry key="app/src/main/res/layout/activity_ledc.xml" value="0.3605072463768116" />
         <entry key="app/src/main/res/layout/activity_ledcontroller.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_ledcontroller_setting.xml" value="0.18888888888888888" />
-        <entry key="app/src/main/res/layout/activity_ledcustomsetting.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/activity_ledcustomsetting.xml" value="0.23148148148148148" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4329896907216495" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.452445652173913" />
@@ -97,7 +98,7 @@
         <entry key="app/src/main/res/layout/item_edit_channel.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.23981481481481481" />
-        <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.35507246376811596" />
+        <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.36141304347826086" />
         <entry key="app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/menu/add.xml" value="0.8" />
