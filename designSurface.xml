@@ -72,6 +72,7 @@
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/dialog_color_picker.xml" value="0.36141304347826086" />
         <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/dialog_time_brights.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/fragment_apconfig_guide.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_config_device.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_config_guide.xml" value="0.26513622603430875" />
