@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/drawable/gradient_rect.xml" value="0.5060185185185185" />
         <entry key="app/src/main/res/drawable/home_device.xml" value="0.32314814814814813" />
         <entry key="app/src/main/res/drawable/home_menu.xml" value="0.32314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_add_24.xml" value="0.500462962962963" />
         <entry key="app/src/main/res/drawable/ic_add_64.xml" value="0.5666666666666667" />
         <entry key="app/src/main/res/drawable/ic_arrow_back_24.xml" value="0.2814814814814815" />
         <entry key="app/src/main/res/drawable/ic_arrow_right_24.xml" value="0.5317708333333333" />
@@ -101,7 +102,7 @@
         <entry key="app/src/main/res/layout/item_edit_channel.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.23981481481481481" />
-        <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.36141304347826086" />
+        <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/menu/add.xml" value="0.8" />
