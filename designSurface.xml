@@ -5,7 +5,9 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/f9db3af1d4b21c0f8eaed47c1558f861/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/drawable/bg_btn_circle.xml" value="0.536" />
-        <entry key="app/src/main/res/drawable/bg_btn_round_edge_gradient.xml" value="0.45601851851851855" />
+        <entry key="app/src/main/res/drawable/bg_btn_round_edge_gradient.xml" value="0.500462962962963" />
+        <entry key="app/src/main/res/drawable/bg_rect_gradient.xml" value="0.500462962962963" />
+        <entry key="app/src/main/res/drawable/bg_rectcorner_white.xml" value="0.500462962962963" />
         <entry key="app/src/main/res/drawable/border_rect_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/border_rectcorner_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/bottom_line.xml" value="0.45046296296296295" />
