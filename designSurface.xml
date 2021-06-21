@@ -48,6 +48,7 @@
         <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.5083333333333333" />
         <entry key="app/src/main/res/drawable/rec_round_hui_blueline_tlr_20px.xml" value="0.29259259259259257" />
         <entry key="app/src/main/res/drawable/rec_round_jianbian_60px.xml" value="0.5083333333333333" />
+        <entry key="app/src/main/res/drawable/rotate_load.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/roundcorner_gradient_background.xml" value="0.5060185185185185" />
         <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.5515625" />
         <entry key="app/src/main/res/layout/activity_add_device.xml" value="0.24684968496849685" />
