@@ -43,6 +43,7 @@
         <entry key="app/src/main/res/drawable/ic_square_24.xml" value="0.5296296296296297" />
         <entry key="app/src/main/res/drawable/ic_square_32.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/ic_time_24.xml" value="0.5296296296296297" />
+        <entry key="app/src/main/res/drawable/ic_update.xml" value="0.29259259259259257" />
         <entry key="app/src/main/res/drawable/ic_verify_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.3388888888888889" />
@@ -81,6 +82,7 @@
         <entry key="app/src/main/res/layout/activity_wifisettings.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/dialog_color_picker.xml" value="0.36141304347826086" />
+        <entry key="app/src/main/res/layout/dialog_download_horiz.xml" value="0.23148148148148148" />
         <entry key="app/src/main/res/layout/dialog_load.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/dialog_modify_password.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
@@ -92,6 +94,7 @@
         <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_detail_function.xml" value="0.4" />
         <entry key="app/src/main/res/layout/fragment_device_detail.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/fragment_device_upgrade.xml" value="0.23148148148148148" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.536" />
         <entry key="app/src/main/res/layout/fragment_ledc_channels.xml" value="0.36141304347826086" />
