@@ -24,8 +24,9 @@
         <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.5510416666666667" />
         <entry key="app/src/main/res/drawable/ic_chain.xml" value="0.3574074074074074" />
         <entry key="app/src/main/res/drawable/ic_circle_16.xml" value="0.4388888888888889" />
-        <entry key="app/src/main/res/drawable/ic_device.xml" value="0.3574074074074074" />
+        <entry key="app/src/main/res/drawable/ic_device.xml" value="0.512962962962963" />
         <entry key="app/src/main/res/drawable/ic_email_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_light.xml" value="0.512962962962963" />
         <entry key="app/src/main/res/drawable/ic_load.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/ic_loading.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/ic_lock_white_24dp.xml" value="0.8" />
@@ -45,6 +46,7 @@
         <entry key="app/src/main/res/drawable/ic_verify_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.3388888888888889" />
+        <entry key="app/src/main/res/drawable/ic_wifi_tethering_48.xml" value="0.512962962962963" />
         <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.5083333333333333" />
         <entry key="app/src/main/res/drawable/rec_round_hui_blueline_tlr_20px.xml" value="0.29259259259259257" />
         <entry key="app/src/main/res/drawable/rec_round_jianbian_60px.xml" value="0.5083333333333333" />
