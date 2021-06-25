@@ -97,6 +97,7 @@
         <entry key="app/src/main/res/layout/fragment_detail_function.xml" value="0.4" />
         <entry key="app/src/main/res/layout/fragment_device_detail.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/fragment_device_upgrade.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/layout/fragment_devicecomb_detail.xml" value="0.3509963768115942" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.36367753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.536" />
         <entry key="app/src/main/res/layout/fragment_ledc_channels.xml" value="0.36141304347826086" />
