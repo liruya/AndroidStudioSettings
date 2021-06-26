@@ -89,6 +89,7 @@
         <entry key="app/src/main/res/layout/dialog_modify_password.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/dialog_time_brights.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/dialog_zone.xml" value="0.3496376811594203" />
         <entry key="app/src/main/res/layout/fragment_apconfig_guide.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_config_device.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_config_guide.xml" value="0.26513622603430875" />
