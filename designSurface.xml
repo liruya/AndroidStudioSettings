@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../opt/AndroidSDK/platforms/android-30/data/res/layout/simple_list_item_single_choice.xml" value="0.21574074074074073" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/f9db3af1d4b21c0f8eaed47c1558f861/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/drawable/bg_btn_circle.xml" value="0.536" />
         <entry key="app/src/main/res/drawable/bg_btn_round_edge_gradient.xml" value="0.500462962962963" />
@@ -125,7 +126,7 @@
         <entry key="app/src/main/res/layout/item_edit_channel.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.37466246624662464" />
-        <entry key="app/src/main/res/layout/item_simple.xml" value="0.3496376811594203" />
+        <entry key="app/src/main/res/layout/item_simple.xml" value="0.3605072463768116" />
         <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
