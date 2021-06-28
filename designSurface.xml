@@ -11,7 +11,7 @@
         <entry key="app/src/main/res/drawable/bg_rectcorner_white.xml" value="0.500462962962963" />
         <entry key="app/src/main/res/drawable/border_rect_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/border_rectcorner_grey.xml" value="0.5337962962962963" />
-        <entry key="app/src/main/res/drawable/bottom_line.xml" value="0.45046296296296295" />
+        <entry key="app/src/main/res/drawable/bottom_line.xml" value="0.7743403093721565" />
         <entry key="app/src/main/res/drawable/divider_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/divider_horz_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/divider_vert_grey.xml" value="0.5296296296296297" />
@@ -85,11 +85,12 @@
         <entry key="app/src/main/res/layout/activity_wifisettings.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/dialog_color_picker.xml" value="0.36141304347826086" />
+        <entry key="app/src/main/res/layout/dialog_comb_devices.xml" value="0.2916666666666667" />
         <entry key="app/src/main/res/layout/dialog_download_horiz.xml" value="0.23148148148148148" />
         <entry key="app/src/main/res/layout/dialog_load.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/dialog_modify_password.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
-        <entry key="app/src/main/res/layout/dialog_time_brights.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/dialog_time_brights.xml" value="0.4" />
         <entry key="app/src/main/res/layout/dialog_zone.xml" value="0.3496376811594203" />
         <entry key="app/src/main/res/layout/fragment_apconfig_guide.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_comb_devices.xml" value="0.37466246624662464" />
@@ -119,8 +120,9 @@
         <entry key="app/src/main/res/layout/fragment_user_info.xml" value="0.28888888888888886" />
         <entry key="app/src/main/res/layout/item_channel.xml" value="0.536" />
         <entry key="app/src/main/res/layout/item_color_name.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/item_comb_device.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_device.xml" value="0.37466246624662464" />
-        <entry key="app/src/main/res/layout/item_device_comb.xml" value="0.3523550724637681" />
+        <entry key="app/src/main/res/layout/item_device_comb.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_device_content.xml" value="0.24074074074074073" />
         <entry key="app/src/main/res/layout/item_device_device.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_edit_channel.xml" value="0.37466246624662464" />
