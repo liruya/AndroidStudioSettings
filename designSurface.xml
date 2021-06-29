@@ -125,7 +125,7 @@
         <entry key="app/src/main/res/layout/fragment_select_router.xml" value="0.22037037037037038" />
         <entry key="app/src/main/res/layout/fragment_smartconfig_guide.xml" value="0.3605072463768116" />
         <entry key="app/src/main/res/layout/fragment_user_info.xml" value="0.28888888888888886" />
-        <entry key="app/src/main/res/layout/item_channel.xml" value="0.536" />
+        <entry key="app/src/main/res/layout/item_channel.xml" value="0.30833333333333335" />
         <entry key="app/src/main/res/layout/item_color_name.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_comb_device.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_device.xml" value="0.37466246624662464" />
@@ -136,7 +136,9 @@
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_simple.xml" value="0.3605072463768116" />
+        <entry key="app/src/main/res/layout/item_slider.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/layout_light_manual.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/menu/add.xml" value="0.8" />
