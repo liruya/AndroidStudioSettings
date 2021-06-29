@@ -90,6 +90,7 @@
         <entry key="app/src/main/res/layout/dialog_comb_devices.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/dialog_download_horiz.xml" value="0.23148148148148148" />
         <entry key="app/src/main/res/layout/dialog_load.xml" value="0.35597826086956524" />
+        <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.30833333333333335" />
         <entry key="app/src/main/res/layout/dialog_modify_password.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/dialog_time_brights.xml" value="0.4" />
