@@ -97,6 +97,8 @@
         <entry key="app/src/main/res/layout/activity_wificonnectioning.xml" value="0.18333333333333332" />
         <entry key="app/src/main/res/layout/activity_wifisettings.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/bottom_dialog_timepicker.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/bottomdialog_timepicker.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/dialog_color_picker.xml" value="0.36141304347826086" />
         <entry key="app/src/main/res/layout/dialog_comb_devices.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/dialog_download_horiz.xml" value="0.23148148148148148" />
