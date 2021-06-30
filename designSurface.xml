@@ -7,7 +7,7 @@
         <entry key="../../.gradle/caches/transforms-2/files-2.1/f9db3af1d4b21c0f8eaed47c1558f861/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/drawable/RoundEdgeGradientButton.xml" value="0.5494791666666666" />
         <entry key="app/src/main/res/drawable/bg_btn_circle.xml" value="0.536" />
-        <entry key="app/src/main/res/drawable/bg_btn_round_edge_gradient.xml" value="0.500462962962963" />
+        <entry key="app/src/main/res/drawable/bg_btn_round_edge_gradient.xml" value="0.5744791666666667" />
         <entry key="app/src/main/res/drawable/bg_rect_gradient.xml" value="0.500462962962963" />
         <entry key="app/src/main/res/drawable/bg_rectcorner_white.xml" value="0.500462962962963" />
         <entry key="app/src/main/res/drawable/border_rect_grey.xml" value="0.5337962962962963" />
@@ -111,6 +111,7 @@
         <entry key="app/src/main/res/layout/dialog_time_picker.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/dialog_timepicker.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/dialog_zone.xml" value="0.3496376811594203" />
+        <entry key="app/src/main/res/layout/fragment_add_habitat.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_apconfig_guide.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_comb_devices.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/fragment_config_device.xml" value="0.3596014492753623" />
@@ -122,7 +123,7 @@
         <entry key="app/src/main/res/layout/fragment_device_detail.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/fragment_device_upgrade.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/fragment_devicecomb_detail.xml" value="0.37466246624662464" />
-        <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.45742753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc_channels.xml" value="0.36141304347826086" />
