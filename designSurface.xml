@@ -13,6 +13,9 @@
         <entry key="app/src/main/res/drawable/border_rect_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/border_rectcorner_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/bottom_line.xml" value="0.7743403093721565" />
+        <entry key="app/src/main/res/drawable/custom_seekbar.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/drawable/custom_seekbar_background.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/drawable/custom_seekbar_progress.xml" value="0.5635416666666667" />
         <entry key="app/src/main/res/drawable/divider_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/divider_horz_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/divider_vert_grey.xml" value="0.5296296296296297" />
