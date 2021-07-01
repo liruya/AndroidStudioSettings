@@ -109,7 +109,7 @@
         <entry key="app/src/main/res/layout/dialog_input.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/dialog_load.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.30833333333333335" />
-        <entry key="app/src/main/res/layout/dialog_modify_password.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/dialog_modify_password.xml" value="0.38981481481481484" />
         <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/dialog_time_brights.xml" value="0.4" />
         <entry key="app/src/main/res/layout/dialog_time_picker.xml" value="0.46195652173913043" />
@@ -139,6 +139,7 @@
         <entry key="app/src/main/res/layout/fragment_light_timer.xml" value="0.360054347826087" />
         <entry key="app/src/main/res/layout/fragment_me.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/fragment_messages.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/fragment_msg.xml" value="0.38981481481481484" />
         <entry key="app/src/main/res/layout/fragment_netconfig.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_network.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/fragment_new_products.xml" value="0.42003027245206864" />
