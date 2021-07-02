@@ -92,32 +92,44 @@
         <entry key="app/src/main/res/layout/activity_ledcontroller.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_ledcontroller_setting.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_ledcustomsetting.xml" value="0.23148148148148148" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.452445652173913" />
         <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.536" />
+        <entry key="app/src/main/res/layout/activity_scan.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/activity_selectconfigurationnetwork.xml" value="0.18888888888888888" />
-        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3605072463768116" />
-        <entry key="app/src/main/res/layout/activity_uvbmain.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/activity_uvbmain.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/activity_web.xml" value="0.4533514492753623" />
         <entry key="app/src/main/res/layout/activity_wificonnectioning.xml" value="0.18333333333333332" />
         <entry key="app/src/main/res/layout/activity_wifisettings.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_wiredaddhost.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/bottom_dialog_timepicker.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/bottomdialog_timepicker.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/btm_sheet_upgrade.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/dialog_action.xml" value="0.4569746376811594" />
+        <entry key="app/src/main/res/layout/dialog_bottom_timepicker.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/dialog_color_picker.xml" value="0.36141304347826086" />
         <entry key="app/src/main/res/layout/dialog_comb_devices.xml" value="0.37466246624662464" />
-        <entry key="app/src/main/res/layout/dialog_download_horiz.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/layout/dialog_custom_actions.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/dialog_device_icons.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/dialog_download_horiz.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/dialog_group_icons.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/dialog_input.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/dialog_key_action.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/dialog_load.xml" value="0.35597826086956524" />
         <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.30833333333333335" />
         <entry key="app/src/main/res/layout/dialog_modify_password.xml" value="0.38981481481481484" />
-        <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.3582427536231884" />
-        <entry key="app/src/main/res/layout/dialog_share.xml" value="0.27547931382441976" />
+        <entry key="app/src/main/res/layout/dialog_qrcode.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/dialog_rename.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/dialog_repeat.xml" value="0.2777497477295661" />
+        <entry key="app/src/main/res/layout/dialog_share.xml" value="0.38796296296296295" />
+        <entry key="app/src/main/res/layout/dialog_threshold.xml" value="0.38796296296296295" />
         <entry key="app/src/main/res/layout/dialog_time_brights.xml" value="0.4" />
         <entry key="app/src/main/res/layout/dialog_time_picker.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/dialog_timepicker.xml" value="0.46195652173913043" />
+        <entry key="app/src/main/res/layout/dialog_timer_actions.xml" value="0.38796296296296295" />
+        <entry key="app/src/main/res/layout/dialog_upgrade_msg.xml" value="0.38796296296296295" />
         <entry key="app/src/main/res/layout/dialog_zone.xml" value="0.3496376811594203" />
         <entry key="app/src/main/res/layout/fragment_add_habitat.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_apconfig_guide.xml" value="0.3596014492753623" />
@@ -134,16 +146,19 @@
         <entry key="app/src/main/res/layout/fragment_devicecomb_detail.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/fragment_edit_daynight.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_edit_profile.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_edit_sunrise_sunset.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_edit_turnoff.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_group.xml" value="0.4569746376811594" />
-        <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_groups_login.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_habitat_detail.xml" value="0.27547931382441976" />
         <entry key="app/src/main/res/layout/fragment_habitat_member.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.45742753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc_channels.xml" value="0.36141304347826086" />
         <entry key="app/src/main/res/layout/fragment_ledc_extra.xml" value="0.3582427536231884" />
-        <entry key="app/src/main/res/layout/fragment_light_auto.xml" value="0.27573158425832495" />
+        <entry key="app/src/main/res/layout/fragment_light.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_light_auto.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_light_manual.xml" value="0.45742753623188404" />
         <entry key="app/src/main/res/layout/fragment_light_mode.xml" value="0.21388888888888888" />
         <entry key="app/src/main/res/layout/fragment_light_pro.xml" value="0.4569746376811594" />
@@ -160,18 +175,26 @@
         <entry key="app/src/main/res/layout/fragment_power.xml" value="0.27547931382441976" />
         <entry key="app/src/main/res/layout/fragment_pref.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/fragment_products.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_profiles.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_select_product.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_select_profile.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_select_router.xml" value="0.22037037037037038" />
+        <entry key="app/src/main/res/layout/fragment_sensor_history.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_set_habitat.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_smartconfig_guide.xml" value="0.3605072463768116" />
+        <entry key="app/src/main/res/layout/fragment_socket.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_socket_mode.xml" value="0.27547931382441976" />
         <entry key="app/src/main/res/layout/fragment_socket_sensor.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_socket_timer.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/fragment_time_zone.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_toolbar_recyclerview.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_user_info.xml" value="0.28888888888888886" />
         <entry key="app/src/main/res/layout/fragment_uvb_animal.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_uvb_result.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/item_animal.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/item_channel.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/item_choose_habitat.xml" value="0.27800201816347125" />
         <entry key="app/src/main/res/layout/item_color_name.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_comb_device.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_dashboard_group.xml" value="0.46059782608695654" />
@@ -180,22 +203,29 @@
         <entry key="app/src/main/res/layout/item_device_content.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/item_device_device.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_devicon.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/item_distance.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/item_edit_channel.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
-        <entry key="app/src/main/res/layout/item_horizon_image.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/item_horizon_image.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/item_percent.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/item_point_bright.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_progress.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/item_simple.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/item_slider.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/item_timezone.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/layout_adddevice_header.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/layout_light_manual.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/layout_light_presets.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/layout_savecancel.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/layout_uvb_title.xml" value="0.27800201816347125" />
         <entry key="app/src/main/res/layout/layout_warning.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/menu_device_status.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/menu_scan.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/microtope_title.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
+        <entry key="app/src/main/res/layout/timepicker_with_second.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
         <entry key="app/src/main/res/menu/add.xml" value="0.8" />
         <entry key="app/src/main/res/menu/bnv_main.xml" value="0.5197916666666667" />
