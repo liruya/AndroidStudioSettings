@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../opt/AndroidSDK/platforms/android-30/data/res/layout/simple_list_item_single_choice.xml" value="0.21574074074074073" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/5406941d298983992949df958012d29d/material-1.3.0/res/drawable/design_password_eye.xml" value="0.59375" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/f9db3af1d4b21c0f8eaed47c1558f861/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/drawable/RoundEdgeGradientButton.xml" value="0.5494791666666666" />
         <entry key="app/src/main/res/drawable/bg_btn_circle.xml" value="0.536" />
@@ -13,9 +14,14 @@
         <entry key="app/src/main/res/drawable/border_rect_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/border_rectcorner_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/bottom_line.xml" value="0.7743403093721565" />
-        <entry key="app/src/main/res/drawable/custom_seekbar.xml" value="0.5635416666666667" />
-        <entry key="app/src/main/res/drawable/custom_seekbar_background.xml" value="0.5635416666666667" />
-        <entry key="app/src/main/res/drawable/custom_seekbar_progress.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/drawable/custom_seekbar.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/custom_seekbar_background.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/custom_seekbar_progress.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/custom_seekbar_thumb.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/custom_switch.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/design_ic_visibility.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/design_ic_visibility_off.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/devicon_basking_spot_ir.xml" value="0.59375" />
         <entry key="app/src/main/res/drawable/divider_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/divider_horz_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/divider_vert_grey.xml" value="0.5296296296296297" />
@@ -24,6 +30,7 @@
         <entry key="app/src/main/res/drawable/home_menu.xml" value="0.32314814814814813" />
         <entry key="app/src/main/res/drawable/ic_add_24.xml" value="0.500462962962963" />
         <entry key="app/src/main/res/drawable/ic_add_64.xml" value="0.5666666666666667" />
+        <entry key="app/src/main/res/drawable/ic_add_transparent_24dp.xml" value="0.59375" />
         <entry key="app/src/main/res/drawable/ic_animal_8.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/ic_arrow_back_24.xml" value="0.2814814814814815" />
         <entry key="app/src/main/res/drawable/ic_arrow_right_24.xml" value="0.5317708333333333" />
@@ -49,8 +56,13 @@
         <entry key="app/src/main/res/drawable/ic_round_24.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_router_white_24dp.xml" value="0.2814814814814815" />
         <entry key="app/src/main/res/drawable/ic_settings_64.xml" value="0.51875" />
+        <entry key="app/src/main/res/drawable/ic_settings_white_24dp.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/ic_share_white_24dp.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/ic_signal_0_bar_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_slider_white_32dp.xml" value="0.59375" />
         <entry key="app/src/main/res/drawable/ic_square_24.xml" value="0.5296296296296297" />
         <entry key="app/src/main/res/drawable/ic_square_32.xml" value="0.5337962962962963" />
+        <entry key="app/src/main/res/drawable/ic_square_pink.xml" value="0.59375" />
         <entry key="app/src/main/res/drawable/ic_time_24.xml" value="0.5296296296296297" />
         <entry key="app/src/main/res/drawable/ic_update.xml" value="0.512962962962963" />
         <entry key="app/src/main/res/drawable/ic_verify_white_24dp.xml" value="0.559375" />
