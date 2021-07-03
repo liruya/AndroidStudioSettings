@@ -26,6 +26,7 @@
         <entry key="app/src/main/res/drawable/divider_horz_grey.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/divider_vert_grey.xml" value="0.5296296296296297" />
         <entry key="app/src/main/res/drawable/gradient_rect.xml" value="0.5060185185185185" />
+        <entry key="app/src/main/res/drawable/gradient_rectcorner_border.xml" value="0.34444444444444444" />
         <entry key="app/src/main/res/drawable/home_device.xml" value="0.32314814814814813" />
         <entry key="app/src/main/res/drawable/home_menu.xml" value="0.32314814814814813" />
         <entry key="app/src/main/res/drawable/ic_add.xml" value="0.5953125" />
