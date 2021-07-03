@@ -296,7 +296,7 @@
         <entry key="app/src/main/res/layout/dialog_timepicker.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/dialog_timer_actions.xml" value="0.38796296296296295" />
         <entry key="app/src/main/res/layout/dialog_upgrade_msg.xml" value="0.38796296296296295" />
-        <entry key="app/src/main/res/layout/dialog_zone.xml" value="0.3496376811594203" />
+        <entry key="app/src/main/res/layout/dialog_zone.xml" value="0.44655797101449274" />
         <entry key="app/src/main/res/layout/fragment_add_habitat.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_apconfig_guide.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_assign_habitat.xml" value="0.42003027245206864" />
@@ -307,7 +307,7 @@
         <entry key="app/src/main/res/layout/fragment_connect_router.xml" value="0.3596014492753623" />
         <entry key="app/src/main/res/layout/fragment_daytime.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/fragment_detail_function.xml" value="0.4" />
-        <entry key="app/src/main/res/layout/fragment_device_detail.xml" value="0.4569746376811594" />
+        <entry key="app/src/main/res/layout/fragment_device_detail.xml" value="0.4" />
         <entry key="app/src/main/res/layout/fragment_device_upgrade.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/fragment_devicecomb_detail.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.46059782608695654" />
