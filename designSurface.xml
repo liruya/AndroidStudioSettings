@@ -87,6 +87,8 @@
         <entry key="app/src/main/res/drawable/ic_humidity_on.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_light.xml" value="0.512962962962963" />
         <entry key="app/src/main/res/drawable/ic_light_preset1.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_light_preset2.xml" value="0.5645833333333333" />
+        <entry key="app/src/main/res/drawable/ic_light_preset3.xml" value="0.5645833333333333" />
         <entry key="app/src/main/res/drawable/ic_light_preset9.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_list_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_load.xml" value="0.5175925925925926" />
@@ -209,6 +211,8 @@
         <entry key="app/src/main/res/drawable/selector_habitat.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/selector_humidity.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/selector_icon_bg.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_light_preset2.xml" value="0.5645833333333333" />
+        <entry key="app/src/main/res/drawable/selector_light_preset3.xml" value="0.5645833333333333" />
         <entry key="app/src/main/res/drawable/selector_light_preset9.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/selector_manual.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/selector_mode_bg.xml" value="0.5953125" />
