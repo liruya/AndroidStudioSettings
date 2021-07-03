@@ -223,7 +223,7 @@
         <entry key="app/src/main/res/drawable/selector_wifi.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.5515625" />
         <entry key="app/src/main/res/drawable/shape_circle_num.xml" value="0.5953125" />
-        <entry key="app/src/main/res/drawable/shape_round_white.xml" value="0.5494791666666666" />
+        <entry key="app/src/main/res/drawable/shape_round_white.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/shape_round_white_2dp.xml" value="0.5494791666666666" />
         <entry key="app/src/main/res/drawable/shape_roundrect_gradient.xml" value="0.4" />
         <entry key="app/src/main/res/drawable/shape_roundrect_gradient_horiz.xml" value="0.5953125" />
