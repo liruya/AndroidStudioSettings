@@ -314,7 +314,7 @@
         <entry key="app/src/main/res/layout/fragment_devices.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/fragment_edit_daynight.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_edit_profile.xml" value="0.45561594202898553" />
-        <entry key="app/src/main/res/layout/fragment_edit_sunrise_sunset.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_edit_sunrise_sunset.xml" value="0.4" />
         <entry key="app/src/main/res/layout/fragment_edit_turnoff.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_group.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.45561594202898553" />
