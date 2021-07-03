@@ -28,69 +28,211 @@
         <entry key="app/src/main/res/drawable/gradient_rect.xml" value="0.5060185185185185" />
         <entry key="app/src/main/res/drawable/home_device.xml" value="0.32314814814814813" />
         <entry key="app/src/main/res/drawable/home_menu.xml" value="0.32314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_add_24.xml" value="0.500462962962963" />
         <entry key="app/src/main/res/drawable/ic_add_64.xml" value="0.5666666666666667" />
+        <entry key="app/src/main/res/drawable/ic_add_alarm_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_add_circle_outline_48dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_add_circle_white_64dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_add_transparent_24dp.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/ic_add_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_admin_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_admin_white_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_alarm_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_animal_8.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_arrow.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_arrow_back_24.xml" value="0.2814814814814815" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_arrow_down_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_arrow_left_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_arrow_right_24.xml" value="0.5317708333333333" />
-        <entry key="app/src/main/res/drawable/ic_background.xml" value="0.3685185185185185" />
+        <entry key="app/src/main/res/drawable/ic_arrow_right_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_arrow_right_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_arrow_up_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_background.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.5510416666666667" />
+        <entry key="app/src/main/res/drawable/ic_baseline_done_32.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_error_outline_24.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_browser.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_chain.xml" value="0.3574074074074074" />
+        <entry key="app/src/main/res/drawable/ic_checked_disabled_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_checked_green_24dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_circle_16.xml" value="0.4388888888888889" />
+        <entry key="app/src/main/res/drawable/ic_circle_fill__green_16dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_clear_24.xml" value="0.512962962962963" />
+        <entry key="app/src/main/res/drawable/ic_clear_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_dashboard.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_date_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_date_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_daytime.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_delete_gray_24dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_device.xml" value="0.512962962962963" />
+        <entry key="app/src/main/res/drawable/ic_device_default_white_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_devices_white.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_done_green_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_edit_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_edit_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_email.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_email_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_exoterra.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_eye_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_fail_red_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_habitats_red.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_habitats_white.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_habitats_white_48dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_home_white.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_humidity.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_humidity_color_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_humidity_on.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_light.xml" value="0.512962962962963" />
+        <entry key="app/src/main/res/drawable/ic_light_preset1.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_light_preset9.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_list_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_load.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/ic_loading.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/ic_lock_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_manual.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_manual_mode.xml" value="0.4398148148148148" />
         <entry key="app/src/main/res/drawable/ic_manual_mode_on.xml" value="0.4398148148148148" />
-        <entry key="app/src/main/res/drawable/ic_manual_on.xml" value="0.4398148148148148" />
-        <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material.xml" value="0.27037037037037037" />
-        <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material_badge.xml" value="0.27037037037037037" />
-        <entry key="app/src/main/res/drawable/ic_more_horiz_white_24dp.xml" value="0.27037037037037037" />
+        <entry key="app/src/main/res/drawable/ic_manual_on.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material_badge.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_message_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_more_horiz_white_24dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_more_vert_24.xml" value="0.772975432211101" />
+        <entry key="app/src/main/res/drawable/ic_myexoterra.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_night.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_person_128.xml" value="0.5317708333333333" />
         <entry key="app/src/main/res/drawable/ic_person_96.xml" value="0.5259259259259259" />
         <entry key="app/src/main/res/drawable/ic_person_outline.xml" value="0.225" />
-        <entry key="app/src/main/res/drawable/ic_power_green.xml" value="0.27037037037037037" />
+        <entry key="app/src/main/res/drawable/ic_person_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_person_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_person_white_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_plant_1.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_plant_3.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_position_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_blue.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_blue_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_blue_48dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_gray.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_green.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_power_green_32dp.xml" value="0.5947916666666667" />
+        <entry key="app/src/main/res/drawable/ic_power_green_40dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_red.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_power_red_32dp.xml" value="0.5947916666666667" />
+        <entry key="app/src/main/res/drawable/ic_power_red_40dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_white.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_power_white_48dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_prefs_white.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_prefs_white_128dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_pro_mode.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_pro_mode_on.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_reptile.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_reptile_gradient.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_resore.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_resore_40dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_round_24.xml" value="0.5" />
-        <entry key="app/src/main/res/drawable/ic_router_white_24dp.xml" value="0.2814814814814815" />
+        <entry key="app/src/main/res/drawable/ic_router_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_router_white_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_search_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_send_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_sensor.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_sensor_on.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_set.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_settings_64.xml" value="0.51875" />
         <entry key="app/src/main/res/drawable/ic_settings_white_24dp.xml" value="0.59375" />
         <entry key="app/src/main/res/drawable/ic_share_white_24dp.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/ic_share_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_signal_0_bar_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_signal_wifi_0_bar_white_24dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_slider_white_32dp.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/ic_sort.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_square_24.xml" value="0.5296296296296297" />
         <entry key="app/src/main/res/drawable/ic_square_32.xml" value="0.5337962962962963" />
         <entry key="app/src/main/res/drawable/ic_square_pink.xml" value="0.59375" />
+        <entry key="app/src/main/res/drawable/ic_square_white.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_strip.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_strip_48dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_sun.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_sunrise.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_sunset.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_temperature.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_temperature_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_temperature_color_64dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_temperature_humidity.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_temperature_on.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_thumb.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_time_24.xml" value="0.5296296296296297" />
-        <entry key="app/src/main/res/drawable/ic_update.xml" value="0.512962962962963" />
-        <entry key="app/src/main/res/drawable/ic_verify_white_24dp.xml" value="0.559375" />
+        <entry key="app/src/main/res/drawable/ic_time_add_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_time_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_timer.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_timer_mode.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_timer_mode_on.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_tune_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_type_4.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_unchecked_disabled_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_unchecked_white_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_update.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_user.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_uvb.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_uvb_item.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_verify_white_24dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_24dp.xml" value="0.559375" />
-        <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.3388888888888889" />
+        <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_warning_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_wheel.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_wifi.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_wifi_green_16dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_wifi_grey_16dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_wifi_on.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_wifi_tethering_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_wifi_tethering_48.xml" value="0.512962962962963" />
+        <entry key="app/src/main/res/drawable/ic_wifi_tethering_white_32dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_youtube.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/rec_line_round_hui_60px.xml" value="0.5083333333333333" />
         <entry key="app/src/main/res/drawable/rec_round_hui_blueline_tlr_20px.xml" value="0.29259259259259257" />
         <entry key="app/src/main/res/drawable/rec_round_jianbian_60px.xml" value="0.5083333333333333" />
+        <entry key="app/src/main/res/drawable/rect_border.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/rect_gradient.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/rectcorner_gradient.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/rotate_load.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/roundcorner_gradient_background.xml" value="0.5060185185185185" />
-        <entry key="app/src/main/res/drawable/selector_check.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/drawable/selector_add.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_check.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_checkable_image_bg.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_cloud.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_delete.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_distance.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_habitat.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_humidity.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_icon_bg.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_light_preset9.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/selector_manual.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/selector_mode_bg.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/selector_power_32dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/selector_power_48dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_pro.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/selector_socket_onoff.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_switch.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/selector_temperature.xml" value="0.4398148148148148" />
+        <entry key="app/src/main/res/drawable/selector_timer.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_updown.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/selector_wifi.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/semicircle_rect_gradient_bg.xml" value="0.5515625" />
+        <entry key="app/src/main/res/drawable/shape_circle_num.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/shape_round_white.xml" value="0.5494791666666666" />
         <entry key="app/src/main/res/drawable/shape_round_white_2dp.xml" value="0.5494791666666666" />
         <entry key="app/src/main/res/drawable/shape_roundrect_gradient.xml" value="0.4" />
-        <entry key="app/src/main/res/drawable/shape_roundrect_gradient_horiz.xml" value="0.5494791666666666" />
-        <entry key="app/src/main/res/drawable/shape_roundrect_red.xml" value="0.5494791666666666" />
-        <entry key="app/src/main/res/drawable/shape_topcorner_rect_gradient.xml" value="0.5494791666666666" />
-        <entry key="app/src/main/res/drawable/switch_thumb.xml" value="0.5494791666666666" />
+        <entry key="app/src/main/res/drawable/shape_roundrect_gradient_horiz.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/shape_roundrect_red.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/shape_topcorner_rect_gradient.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/switch_thumb.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/switch_thumb_2.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/switch_track.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/switch_track_2.xml" value="0.5953125" />
         <entry key="app/src/main/res/layout/abc.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/activity_add_device.xml" value="0.30833333333333335" />
         <entry key="app/src/main/res/layout/activity_adddevice.xml" value="0.45561594202898553" />
@@ -193,7 +335,7 @@
         <entry key="app/src/main/res/layout/fragment_network.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/fragment_new_products.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_notify.xml" value="0.4569746376811594" />
-        <entry key="app/src/main/res/layout/fragment_power.xml" value="0.27547931382441976" />
+        <entry key="app/src/main/res/layout/fragment_power.xml" value="0.44655797101449274" />
         <entry key="app/src/main/res/layout/fragment_pref.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/fragment_products.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.45561594202898553" />
@@ -226,6 +368,8 @@
         <entry key="app/src/main/res/layout/item_devicon.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/item_distance.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/item_edit_channel.xml" value="0.37466246624662464" />
+        <entry key="app/src/main/res/layout/item_habitat.xml" value="0.44655797101449274" />
+        <entry key="app/src/main/res/layout/item_habitat_member.xml" value="0.44655797101449274" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_horizon_image.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/item_percent.xml" value="0.45561594202898553" />
@@ -236,9 +380,9 @@
         <entry key="app/src/main/res/layout/item_slider.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/item_time_brights.xml" value="0.37466246624662464" />
         <entry key="app/src/main/res/layout/item_timezone.xml" value="0.45561594202898553" />
-        <entry key="app/src/main/res/layout/layout_adddevice_header.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/layout_adddevice_header.xml" value="0.44655797101449274" />
         <entry key="app/src/main/res/layout/layout_device_mode.xml" value="0.44655797101449274" />
-        <entry key="app/src/main/res/layout/layout_device_title.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/layout_device_title.xml" value="0.44655797101449274" />
         <entry key="app/src/main/res/layout/layout_light_manual.xml" value="0.46195652173913043" />
         <entry key="app/src/main/res/layout/layout_light_presets.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/layout_savecancel.xml" value="0.45561594202898553" />
@@ -250,12 +394,20 @@
         <entry key="app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/timepicker_with_second.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/title_layout.xml" value="0.4157608695652174" />
+        <entry key="app/src/main/res/layout/x_fragment_monsoon_mode.xml" value="0.44655797101449274" />
         <entry key="app/src/main/res/menu/add.xml" value="0.8" />
         <entry key="app/src/main/res/menu/bnv_main.xml" value="0.5197916666666667" />
         <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.262037037037037" />
+        <entry key="app/src/main/res/menu/menu_group.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/menu/menu_habitat.xml" value="0.5760416666666667" />
         <entry key="app/src/main/res/menu/menu_main_bnv.xml" value="0.3435185185185185" />
-        <entry key="app/src/main/res/menu/menu_select_profile.xml" value="0.56875" />
-        <entry key="app/src/main/res/menu/menu_web.xml" value="0.3074074074074074" />
+        <entry key="app/src/main/res/menu/menu_me.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/menu/menu_newprdt_bnv.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/menu/menu_save.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/menu/menu_scan.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/menu/menu_select_profile.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/menu/menu_uvbmain_bnv.xml" value="0.5760416666666667" />
+        <entry key="app/src/main/res/menu/menu_web.xml" value="0.5760416666666667" />
         <entry key="app/src/main/res/menu/more_horz.xml" value="0.48333333333333334" />
         <entry key="app/src/main/res/menu/more_vert.xml" value="0.725" />
         <entry key="app/src/main/res/menu/setting.xml" value="0.49947916666666664" />
