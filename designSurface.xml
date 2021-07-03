@@ -45,6 +45,9 @@
         <entry key="app/src/main/res/drawable/ic_load.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/ic_loading.xml" value="0.5175925925925926" />
         <entry key="app/src/main/res/drawable/ic_lock_white_24dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_manual_mode.xml" value="0.4398148148148148" />
+        <entry key="app/src/main/res/drawable/ic_manual_mode_on.xml" value="0.4398148148148148" />
+        <entry key="app/src/main/res/drawable/ic_manual_on.xml" value="0.4398148148148148" />
         <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material.xml" value="0.27037037037037037" />
         <entry key="app/src/main/res/drawable/ic_menu_moreoverflow_material_badge.xml" value="0.27037037037037037" />
         <entry key="app/src/main/res/drawable/ic_more_horiz_white_24dp.xml" value="0.27037037037037037" />
