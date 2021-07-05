@@ -263,6 +263,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.452445652173913" />
         <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.536" />
+        <entry key="app/src/main/res/layout/activity_retrieve.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/activity_scan.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/activity_selectconfigurationnetwork.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.45561594202898553" />
@@ -345,6 +346,7 @@
         <entry key="app/src/main/res/layout/fragment_products.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_profiles.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/fragment_register_email.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_select_product.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_select_profile.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_select_router.xml" value="0.22037037037037038" />
