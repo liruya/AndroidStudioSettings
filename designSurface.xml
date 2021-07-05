@@ -335,7 +335,7 @@
         <entry key="app/src/main/res/layout/fragment_monsoon.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_monsoon_control.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_monsoon_mode.xml" value="0.42003027245206864" />
-        <entry key="app/src/main/res/layout/fragment_msg.xml" value="0.38981481481481484" />
+        <entry key="app/src/main/res/layout/fragment_msg.xml" value="0.4447463768115942" />
         <entry key="app/src/main/res/layout/fragment_netconfig.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_network.xml" value="0.35643115942028986" />
         <entry key="app/src/main/res/layout/fragment_new_products.xml" value="0.42003027245206864" />
@@ -377,6 +377,7 @@
         <entry key="app/src/main/res/layout/item_habitat_member.xml" value="0.44655797101449274" />
         <entry key="app/src/main/res/layout/item_home_bottom.xml" value="0.18888888888888888" />
         <entry key="app/src/main/res/layout/item_horizon_image.xml" value="0.45561594202898553" />
+        <entry key="app/src/main/res/layout/item_msg.xml" value="0.4447463768115942" />
         <entry key="app/src/main/res/layout/item_percent.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/item_point_bright.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.37466246624662464" />
