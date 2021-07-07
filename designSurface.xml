@@ -67,6 +67,7 @@
         <entry key="app/src/main/res/drawable/ic_date_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_daytime.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_delete_gray_24dp.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_delete_red_24dp.xml" value="0.43796296296296294" />
         <entry key="app/src/main/res/drawable/ic_device.xml" value="0.512962962962963" />
         <entry key="app/src/main/res/drawable/ic_device_default_white_64dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_devices_white.xml" value="0.5953125" />
@@ -81,6 +82,7 @@
         <entry key="app/src/main/res/drawable/ic_habitats_red.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_habitats_white.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_habitats_white_16dp.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_habitats_white_24dp.xml" value="0.5453703703703704" />
         <entry key="app/src/main/res/drawable/ic_habitats_white_48dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_home.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_home_white.xml" value="0.5953125" />
