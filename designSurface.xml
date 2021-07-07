@@ -325,7 +325,7 @@
         <entry key="app/src/main/res/layout/fragment_group.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_groups_login.xml" value="0.45561594202898553" />
-        <entry key="app/src/main/res/layout/fragment_habitat_detail.xml" value="0.4447463768115942" />
+        <entry key="app/src/main/res/layout/fragment_habitat_detail.xml" value="0.536" />
         <entry key="app/src/main/res/layout/fragment_habitat_member.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_ledc.xml" value="0.45742753623188404" />
         <entry key="app/src/main/res/layout/fragment_ledc_channels.xml" value="0.36141304347826086" />
@@ -347,7 +347,7 @@
         <entry key="app/src/main/res/layout/fragment_new_products.xml" value="0.42003027245206864" />
         <entry key="app/src/main/res/layout/fragment_notify.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_power.xml" value="0.44655797101449274" />
-        <entry key="app/src/main/res/layout/fragment_pref.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_pref.xml" value="0.44429347826086957" />
         <entry key="app/src/main/res/layout/fragment_products.xml" value="0.46059782608695654" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.45561594202898553" />
         <entry key="app/src/main/res/layout/fragment_profiles.xml" value="0.45561594202898553" />
