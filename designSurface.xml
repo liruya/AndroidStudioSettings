@@ -341,6 +341,7 @@
         <entry key="app/src/main/res/layout/fragment_monsoon.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_monsoon_control.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_monsoon_mode.xml" value="0.42003027245206864" />
+        <entry key="app/src/main/res/layout/fragment_monsoon_timers.xml" value="0.4429347826086957" />
         <entry key="app/src/main/res/layout/fragment_msg.xml" value="0.4447463768115942" />
         <entry key="app/src/main/res/layout/fragment_netconfig.xml" value="0.4569746376811594" />
         <entry key="app/src/main/res/layout/fragment_network.xml" value="0.35643115942028986" />
