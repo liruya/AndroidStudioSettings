@@ -171,7 +171,8 @@
         <entry key="app/src/main/res/drawable/ic_temperature_color_64dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_temperature_humidity.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_temperature_on.xml" value="0.5953125" />
-        <entry key="app/src/main/res/drawable/ic_thumb.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_thumb.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_thumb_raw.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/ic_time_24.xml" value="0.5296296296296297" />
         <entry key="app/src/main/res/drawable/ic_time_add_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_time_white_24dp.xml" value="0.5953125" />
@@ -191,7 +192,8 @@
         <entry key="app/src/main/res/drawable/ic_verifycode_white_24dp.xml" value="0.559375" />
         <entry key="app/src/main/res/drawable/ic_verifycode_white_32dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_warning_24dp.xml" value="0.5953125" />
-        <entry key="app/src/main/res/drawable/ic_wheel.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_wheel.xml" value="0.8" />
+        <entry key="app/src/main/res/drawable/ic_wheel_raw.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/ic_wifi.xml" value="0.8" />
         <entry key="app/src/main/res/drawable/ic_wifi_green_16dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_wifi_grey_16dp.xml" value="0.5953125" />
