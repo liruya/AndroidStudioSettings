@@ -6,6 +6,7 @@
         <entry key="../../../../opt/AndroidSDK/platforms/android-30/data/res/layout/simple_list_item_single_choice.xml" value="0.21574074074074073" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/5406941d298983992949df958012d29d/material-1.3.0/res/drawable/design_password_eye.xml" value="0.59375" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/f9db3af1d4b21c0f8eaed47c1558f861/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.35643115942028986" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.7743403093721565" />
         <entry key="app/src/main/res/drawable/RoundEdgeGradientButton.xml" value="0.5494791666666666" />
         <entry key="app/src/main/res/drawable/bg_btn_circle.xml" value="0.536" />
         <entry key="app/src/main/res/drawable/bg_btn_round_edge_gradient.xml" value="0.5744791666666667" />
@@ -89,6 +90,7 @@
         <entry key="app/src/main/res/drawable/ic_humidity.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_humidity_color_64dp.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_humidity_on.xml" value="0.5953125" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3296296296296296" />
         <entry key="app/src/main/res/drawable/ic_light.xml" value="0.512962962962963" />
         <entry key="app/src/main/res/drawable/ic_light_preset1.xml" value="0.5953125" />
         <entry key="app/src/main/res/drawable/ic_light_preset2.xml" value="0.5645833333333333" />
@@ -435,6 +437,8 @@
         <entry key="app/src/main/res/menu/more_vert.xml" value="0.725" />
         <entry key="app/src/main/res/menu/setting.xml" value="0.49947916666666664" />
         <entry key="app/src/main/res/menu/web.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.7743403093721565" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.7743403093721565" />
         <entry key="app/src/main/res/xml/color_map.xml" value="0.35643115942028986" />
       </map>
     </option>
