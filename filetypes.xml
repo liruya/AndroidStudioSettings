@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="test" type="Android Room SQL" />
       <mapping pattern="animal_light_tables" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
