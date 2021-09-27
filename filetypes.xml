@@ -8,6 +8,7 @@
       <mapping pattern="animals" type="PLAIN_TEXT" />
       <mapping pattern="animal" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping pattern="AppConfig" type="Properties" />
       <mapping pattern="t2" type="SQLite" />
