@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9f5a16cc" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SC" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
