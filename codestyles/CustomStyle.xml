@@ -1,4 +1,9 @@
 <code_scheme name="CustomStyle" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
   <option name="FIELD_NAME_PREFIX" value="m" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -84,6 +89,16 @@
     <option name="XML_ATTRIBUTE_WRAP" value="4" />
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   </XML>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -128,6 +143,7 @@
     <option name="ENUM_CONSTANTS_WRAP" value="5" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="0" />
+      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
     <arrangement>
@@ -147,9 +163,25 @@
       </groups>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
     <arrangement>
       <rules>
@@ -261,5 +293,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
