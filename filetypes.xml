@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="revision" type="AUTO_DETECTED" />
       <mapping pattern="test" type="Android Room SQL" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping pattern="animal_light_tables" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -17,6 +18,7 @@
       <mapping pattern="t2" type="SQLite" />
       <mapping ext="db" type="SQLite" />
       <mapping pattern="gradlew" type="Shell Script" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
