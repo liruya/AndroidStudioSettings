@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:error RadiansApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error RadiansApplication" />
+        <option value="package:mine level:error RadiansApp" />
         <option value="package:mine level:error " />
         <option value="package:mine level:error" />
         <option value="package:mine level:error VerticalSeekBar" />
