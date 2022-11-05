@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error tag:RadiansApplication tag:WiFiHelper tag:RouterFragment " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine level:error tag:RadiansApplication tag:WiFiHelper tag:RouterFragment " />
         <option value="package:mine level:error tag:RadiansApplication tag:WiFiHelper " />
         <option value="package:mine level:error -tag:RadiansApplication -tag:WiFiHelper " />
-        <option value="package:mine level:error " />
         <option value="package:mine level:error WiFiHelper" />
         <option value="package:mine level:error onLink" />
         <option value="package:mine level:error" />
